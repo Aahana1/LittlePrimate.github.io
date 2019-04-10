@@ -1,7 +1,7 @@
 ---
 title: "PredPlantPTS1: A Web Server for the Prediction of Plant Peroxisomal Proteins"
 collection: publications
-permalink: /publication/2012-08-27-PredPlantPST1.md
+permalink: /publication/2012-08-27-PredPlantPST1
 excerpt: 'PredPlantPST1 is a prediction tool to predict whether plant proteins are PST1 proteins or not'
 date: 2012-08-27
 venue: 'Front Plant Sci.'
