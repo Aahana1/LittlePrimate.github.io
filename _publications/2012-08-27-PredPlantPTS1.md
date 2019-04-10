@@ -10,6 +10,6 @@ citation: 'Reumann, S., Buchwald, D., & Lingner, T. (2012). PredPlantPTS1: a web
 ---
 PredPlantPST1 is a prediction tool to predict whether plant proteins are PST1 proteins or not
 
-[Download paper here](https://www.frontiersin.org/articles/10.3389/fpls.2012.00194/full)
+[Find paper here](https://www.frontiersin.org/articles/10.3389/fpls.2012.00194/full)
 
 Recommended citation: Reumann, S., Buchwald, D., & Lingner, T. (2012). PredPlantPTS1: a web server for the prediction of plant peroxisomal proteins. Frontiers in plant science, 3, 194.
