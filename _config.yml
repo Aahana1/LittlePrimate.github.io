@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniela Buchwald"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Neuroscience, BCIs, Bioinformatics and stuff. Interested in sense of touch, object recognition and grasping at the Scherberger Lab at the German Primate Center."
   location         : "German Primate Center"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=daniela+buchwald"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://de.linkedin.com/in/dbuchwald"
   orcid            : "https://orcid.org/0000-0002-7840-641X"
   pinterest        :
   soundcloud       :
@@ -191,16 +191,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: ""
@@ -227,14 +227,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
