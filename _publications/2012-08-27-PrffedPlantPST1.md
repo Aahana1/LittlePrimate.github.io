@@ -1,7 +1,7 @@
 ---
 title: "PredPlantPTS1: A Web Server for the Prediction of Plant Peroxisomal Proteins"
 collection: publications
-permalink: /publication/2012-08-27-PredPlantPST1.md
+permalink: /publication/2012-08-27-PrffedPlantPST1.md
 excerpt: ''
 date: 2012-08-27
 venue: 'Front Plant Sci.'
