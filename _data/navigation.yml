@@ -1,13 +1,10 @@
-# main links links
+presentations# main links links
 main:
   - title: "Publications"
     url: /publications/
 
   - title: "Talks and Presentations"
-    url: /talks/ 
-    
-  - title: "Scientific outreach"
-    url: /scicom/ 
+    url: /presentations/ 
 
   - title: "Working Experience and Teaching"
     url: /teaching/    
