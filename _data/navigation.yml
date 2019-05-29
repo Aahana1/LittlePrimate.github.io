@@ -1,4 +1,16 @@
-presentations# main links links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Talks"
+    url: /talks/  
+
+  - title: "Scientific outreach"
+    url: /scicom/ 
+
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "CV"
+    url: /cv/
