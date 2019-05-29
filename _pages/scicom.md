@@ -13,6 +13,6 @@ author_profile: true
 Interview for a broadcast about alternatives to animal experiments, specifically why experiments on non-human primates are still necessary
 
 **DPZ Science Slam: Dem Tastsinn auf der Spur**  
-<span style="font-size:0.8em;">February 2018</span>  
+<span style="font-size:0.8em;">February 28, 2018</span>  
 <span style="font-size:0.9em;">DPZ Science Slam 2018</span>  
 Competitor in the 2018 Science Slam of the German Primate Center (DPZ), talking about passive finger stimulation in non-human primates
