@@ -10,8 +10,8 @@ author_profile: true
 2018
 --
 **Sensory signal processing during passive finger stimulation and grasping**  
-<span style="font-size:4;color=grey;">March 20, 2018</span>
-<span style="font-size:14em;">SMN/SFB889 Retreat2018, Göttingen, Germany.</span>
+<span style="font-size:0.5em;">March 20, 2018</span>  
+<span style="font-size:0.7em;">SMN/SFB889 Retreat2018, Göttingen, Germany.</span>
 
 **Sensory signal processing for object recognition and grasping in primates**
 ###### March 08, 2018
