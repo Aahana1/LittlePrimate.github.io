@@ -9,9 +9,7 @@ Talks
 
 2018
 --
-- **Sensory signal processing during passive finger stimulation and grasping**
-###### 20.03.2018 
-##### SMN/SFB889 Retreat2018, Göttingen, Germany.
+- **Sensory signal processing during passive finger stimulation and grasping**  ###### 20.03.2018  ##### SMN/SFB889 Retreat2018, Göttingen, Germany.
 - Mar 2018: **Sensory signal processing for object recognition and grasping in primates**, Evaluation of the Neuro-biology Laboratory, German Primate Center, Göttingen, Germany.
 
 2017
