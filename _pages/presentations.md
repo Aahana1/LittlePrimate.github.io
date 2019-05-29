@@ -34,7 +34,7 @@ author_profile: true
 <span style="font-size:0.8em;">August 04, 2016</span>  
 <span style="font-size:0.9em;">27th Neurobiology Doctoral Students Workshop, Bielefeld, Germany.</span>  
 
-### Poster
+### Poster Presentations
 
 ##### 2019  
 **Influence of visual and tactile object recognition on motor planning in non-human primates**  
