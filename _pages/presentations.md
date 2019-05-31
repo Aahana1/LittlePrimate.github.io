@@ -31,63 +31,69 @@ author_profile: true
 
 ##### 2016  
 **Vision vs. Touch: Does the type of sensory information alter the way primates plan grasps?**  
-<span style="font-size:0.8em;">August 04, 2016</span>  
+<span style="font-size:0.8em;">August 05, 2016</span>  
 <span style="font-size:0.9em;">27th Neurobiology Doctoral Students Workshop, Bielefeld, Germany.</span>  
 
 ### Poster Presentations
 
 ##### 2019  
 **Influence of visual and tactile object recognition on motor planning in non-human primates**  
-<span style="font-size:0.8em;">April 2019</span>  
+<span style="font-size:0.8em;">April 24/25, 2019</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
 <span style="font-size:0.9em;">29th Annual NCM Meeting, Toyama, Japan</span>  
 
 **Multimodal object recognition in the primate brain during a delayed-grasp task**  
-<span style="font-size:0.8em;">March 2019</span>  
+<span style="font-size:0.8em;">March 20, 2019</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
 <span style="font-size:0.9em;">13th Göttingen Meeting of the German Neuroscience Society, Göttingen, Germany</span>  
 
 **Multimodal object recognition in the primate brain during a delayed-grasp task**  
-<span style="font-size:0.8em;">March 2019</span>  
+<span style="font-size:0.8em;">March 6/7, 2019</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
 <span style="font-size:0.9em;">12th Primate Neurobiology Meeting, Göttingen, Germany</span>  
 
 ##### 2018  
 **Multimodal signal processing for grasp planning in the primate brain**  
-<span style="font-size:0.8em;">November 2018</span>  
+<span style="font-size:0.8em;">November 6, 2018</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald*, Benjamin Dann and Hans Scherberger</span>  
 <span style="font-size:0.9em;">Neuroscience 2018, San Diego, United States of America</span>  
 
 **Sensory signal processing during a delayed-grasp task in the primate brain**  
-<span style="font-size:0.8em;">August 2018</span>  
+<span style="font-size:0.8em;">August 26-29, 2018</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald*, Benjamin Dann and Hans Scherberger</span>  
 <span style="font-size:0.9em;">Hand, Brain and Technology: the Somatosensory System, Ascona, Switzerland</span>    
 
 **Tactile signal processing in the primate brain**  
-<span style="font-size:0.8em;">August 2018</span>  
+<span style="font-size:0.8em;">March 14, 2018</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald*, Benjamin Dann, Domenico Camboni, Calogero M. Oddo  and Hans Scherberger</span>  
-<span style="font-size:0.9em;">10th Primate Neurobiology Meeting, Göttingen, Germany</span>     
+<span style="font-size:0.9em;">11th Primate Neurobiology Meeting, Tübingen, Germany</span>     
 
 ##### 2017  
+
 **Comparison of visual and tactile object recognition for grasp planning in non-human primates**  
-<span style="font-size:0.8em;">March 2017</span>  
+<span style="font-size:0.8em;">March 7, 2017</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
-<span style="font-size:0.9em;">Joint SFB 870/SFB 889 Symposium, Munich, Germany</span>  
+<span style="font-size:0.9em;">10th Primate Neurobiology Meeting, Göttingen, Germany</span>     
 
 ##### 2016  
 **Comparison of visual and tactile object recognition for grasp planning in non-human primates**  
-<span style="font-size:0.8em;">March 2017</span>  
+<span style="font-size:0.8em;">October 7, 2016</span>  
+<span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
+<span style="font-size:0.9em;">Joint SFB 870/SFB 889 Symposium, Munich, Germany</span>  
+
+**Comparison of visual and tactile object recognition for grasp planning in non-human primates**  
+<span style="font-size:0.8em;">September 28, 2016</span>  
 <span style="font-size:0.9em;">*Daniela Buchwald* and Hans Scherberger</span>  
 <span style="font-size:0.9em;">5th CITEC Summer School on Adaptive Systems, Bielefeld, Germany</span>  
 
 ### Contributions to presentations of others  
 
 **Markerless primate hand tracking during reach and grasp movements of diverse objects**  
-<span style="font-size:0.8em;">March 2019</span>  
+<span style="font-size:0.8em;">March 6/7, 2019</span>  
 <span style="font-size:0.9em;">Swathi Sheshari, *Daniela Buchwald*, Benjamin Dann and Hans Scherberger</span>  
 <span style="font-size:0.9em;">12th Primate Neurobiology Meeting, Göttingen, Germany</span> 
 
 **Marker-free primate hand tracking during reach and grasp movements of diverse objects**  
-<span style="font-size:0.8em;">September 2018</span>  
+<span style="font-size:0.8em;">September 26/27, 2018</span>  
 <span style="font-size:0.9em;">Swathi Sheshari, *Daniela Buchwald*, Benjamin Dann and Hans Scherberger</span>  
 <span style="font-size:0.9em;">Bernstein Conference 2018, Berlin, Germany</span> 
