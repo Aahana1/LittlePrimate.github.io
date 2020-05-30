@@ -5,6 +5,9 @@ main:
     
   - title: "Presentations"
     url: /presentations/
+    
+  - title: "Posters"
+    url: /presentations/
 
   - title: "Scientific outreach"
     url: /scicom/
