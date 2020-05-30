@@ -4,11 +4,10 @@ permalink: /_presentations/presentations
 ---
 Talks
 
-
 2020
 --
 - Upcoming: June 16, 2020: Monkey see, monkey touch, monkey do - Grasp planning based on different sensory modalities in the non-human primate, NCM Award Winners Symposium by the Society for the Neural Control of Movements.
-- May 26, 2020: Processing of visual and tactile object information in the fronto-parietal grasping network, Neuromatch 2.0 Unconference, Online. Watch on YouTube: https://youtu.be/FpdHN94S5bg?t=447
+- May 26, 2020: Processing of visual and tactile object information in the fronto-parietal grasping network, Neuromatch 2.0 Unconference, Online.
 - May 11, 2020: Investigating sensorymotor cortex through behaviour in monkeys, Neuroscience Online Seminar Series. (Invited talk)
 - April 16, 2020: Monkey see, monkey touch, monkey do - Influence of tactile and visual information on the fronto-parietal grasping network, Baylor College of Medicine, Department of Neuroscience, Houston, TX, UnitedStates of America. (Invited talk)
 
