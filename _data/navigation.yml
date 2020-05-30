@@ -4,10 +4,10 @@ main:
     url: /publications/
     
   - title: "Presentations"
-    url: /presentations/ 
+    url: /presentations/
 
   - title: "Scientific outreach"
-    url: /scicom/ 
+    url: /scicom/
     
   - title: "Curriculum vitae"
     url: /files/CV_April2020.pdf
