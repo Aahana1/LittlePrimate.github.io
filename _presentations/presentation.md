@@ -1,6 +1,6 @@
 ---
 title: Talks
-permalink: /_presentations/presentations
+permalink: /_presentations/presentation
 ---
 Talks
 
