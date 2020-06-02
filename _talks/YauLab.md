@@ -1,0 +1,9 @@
+---
+title: "Monkey see, monkey touch, monkey do - Influence of tactile and visual information on the fronto-parietal grasping network"
+collection: talks
+type: "Talk"
+venue: "Evaluation of the Neuro-biology Laboratory, German Primate Center"
+permalink: /talks/YauLab
+date: 2020-04-16
+location: "Baylor College of Medicine, Department of Neuroscience, Houston, TX, UnitedStates of America."
+---
