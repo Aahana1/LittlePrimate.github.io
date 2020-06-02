@@ -9,5 +9,8 @@ main:
   - title: "Scientific outreach"
     url: /scicom/
     
-  - title: "Curriculum vitae"
-    url: /files/CV_April2020.pdf
+  - title: "Curriculum vitae (academic)"
+    url: /files/CV_DanielaBuchwald.pdf
+    
+  - title: "Curriculum vitae (industry)"
+    url: /files/CVi_DanielaBuchwald.pdf
