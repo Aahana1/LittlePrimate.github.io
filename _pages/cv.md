@@ -33,6 +33,7 @@ Certifications and advanced training
 
 Work experience
 ======
+* Jan 2021 - Present: 
 * Sep 2017 - Present: Database manager
   * German Primate Center}{G\"ottingen, Germany
   * Responsible for maintaining and updating the research animal documentation database system for the Neurobiology department
